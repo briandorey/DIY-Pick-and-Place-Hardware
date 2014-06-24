@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="wheels2">
+  <layers>
+    <layer name="0" color="255,255,255">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="LAYER_1" color="255,255,255">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <spline id="1" deg="3" flags="11" ktol="1E-10" cptol="1E-10" ftol="0">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>2</k>
+            <k>2</k>
+            <k>2</k>
+            <k>3</k>
+            <k>3</k>
+            <k>3</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>33.9998195987049,17.0005126910624</p>
+            <p>33.9998195987049,7.61090494601394</p>
+            <p>26.389603671788,0</p>
+            <p>17.0001681815139,0</p>
+            <p>7.61142171033673,0</p>
+            <p>0,7.61090494601394</p>
+            <p>0,17.0005126910624</p>
+            <p>0,26.3890869074652</p>
+            <p>7.61142171033673,34.000508617802</p>
+            <p>17.0001681815139,34.000508617802</p>
+            <p>26.389603671788,34.000508617802</p>
+            <p>33.9998195987049,26.3890869074652</p>
+            <p>33.9998195987049,17.0005126910624</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="2" deg="3" flags="11" ktol="1E-10" cptol="1E-10" ftol="0">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>2</k>
+            <k>2</k>
+            <k>2</k>
+            <k>3</k>
+            <k>3</k>
+            <k>3</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>19.0002183654756,17.0005126910624</p>
+            <p>19.0002183654756,15.8956705689427</p>
+            <p>18.1048380488592,15.0002902523263</p>
+            <p>17.0001681815139,15.0002902523263</p>
+            <p>15.8956705689427,15.0002902523263</p>
+            <p>15.000117997552,15.8956705689427</p>
+            <p>15.000117997552,17.0005126910624</p>
+            <p>15.000117997552,18.1050103036335</p>
+            <p>15.8956705689427,19.0000461107014</p>
+            <p>17.0001681815139,19.0000461107014</p>
+            <p>18.1048380488592,19.0000461107014</p>
+            <p>19.0002183654756,18.1050103036335</p>
+            <p>19.0002183654756,17.0005126910624</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="3" deg="3" flags="11" ktol="1E-10" cptol="1E-10" ftol="0">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>2</k>
+            <k>2</k>
+            <k>2</k>
+            <k>3</k>
+            <k>3</k>
+            <k>3</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>53.5758856745401,17.0005126910624</p>
+            <p>53.5758856745401,15.8956705689427</p>
+            <p>52.6805053579236,15.0002902523263</p>
+            <p>51.575663235804,15.0002902523263</p>
+            <p>50.4711656232329,15.0002902523263</p>
+            <p>49.5757853066165,15.8956705689427</p>
+            <p>49.5757853066165,17.0005126910624</p>
+            <p>49.5757853066165,18.1050103036335</p>
+            <p>50.4711656232329,19.0000461107014</p>
+            <p>51.575663235804,19.0000461107014</p>
+            <p>52.6805053579236,19.0000461107014</p>
+            <p>53.5758856745401,18.1050103036335</p>
+            <p>53.5758856745401,17.0005126910624</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="4" deg="3" flags="11" ktol="1E-10" cptol="1E-10" ftol="0">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>2</k>
+            <k>2</k>
+            <k>2</k>
+            <k>3</k>
+            <k>3</k>
+            <k>3</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>64.0748141658389,16.9943115191889</p>
+            <p>64.0748141658389,10.0910291858453</p>
+            <p>58.477912040502,4.49412706050841</p>
+            <p>51.574974216707,4.49412706050841</p>
+            <p>44.6716918833633,4.49412706050841</p>
+            <p>39.0747897580264,10.0910291858453</p>
+            <p>39.0747897580264,16.9943115191889</p>
+            <p>39.0747897580264,23.8975938525326</p>
+            <p>44.6716918833633,29.4941514683209</p>
+            <p>51.574974216707,29.4941514683209</p>
+            <p>58.477912040502,29.4941514683209</p>
+            <p>64.0748141658389,23.8975938525326</p>
+            <p>64.0748141658389,16.9943115191889</p>
+          </ctrl>
+          <fit />
+        </spline>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts>
+    <part Name="Part1">
+      <machineops>
+        <drill>
+          <WorkPlane state="Default">XY</WorkPlane>
+          <OptimisationMode state="Default">Experimental</OptimisationMode>
+          <RoughingFinishing state="Default">Roughing</RoughingFinishing>
+          <ToolDiameter state="Default">4</ToolDiameter>
+          <ToolNumber state="Value">5</ToolNumber>
+          <ToolProfile state="Default">Drill</ToolProfile>
+          <PlungeFeedrate state="Value">40</PlungeFeedrate>
+          <CutFeedrate state="Value">40</CutFeedrate>
+          <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
+          <CustomMOPHeader state="Default" />
+          <CustomMOPFooter state="Default" />
+          <Name>Drill1</Name>
+          <StockSurface state="Default">0</StockSurface>
+          <RoughingClearance state="Default">0</RoughingClearance>
+          <ClearancePlane state="Default">3</ClearancePlane>
+          <SpindleDirection state="Default">CW</SpindleDirection>
+          <SpindleSpeed state="Default">1000</SpindleSpeed>
+          <SpindleRange state="Default">0</SpindleRange>
+          <VelocityMode state="Default">Undefined</VelocityMode>
+          <primitive>
+            <prim>2</prim>
+            <prim>3</prim>
+          </primitive>
+          <TargetDepth state="Value">-5</TargetDepth>
+          <DepthIncrement state="Value">1</DepthIncrement>
+          <DrillLeadOut state="Default">False</DrillLeadOut>
+          <SpiralFlatBase state="Default">True</SpiralFlatBase>
+          <LeadOutLength state="Default">0</LeadOutLength>
+          <DrillingMethod state="Default">CannedCycle</DrillingMethod>
+          <PeckDistance state="Value">1</PeckDistance>
+          <RetractHeight state="Value">1</RetractHeight>
+          <Dwell state="Default">0</Dwell>
+          <CustomScript state="Default" />
+        </drill>
+        <profile>
+          <WorkPlane state="Default">XY</WorkPlane>
+          <OptimisationMode state="Default">Experimental</OptimisationMode>
+          <RoughingFinishing state="Default">Roughing</RoughingFinishing>
+          <ToolDiameter state="Default">3</ToolDiameter>
+          <ToolNumber state="Value">3</ToolNumber>
+          <ToolProfile state="Default">EndMill</ToolProfile>
+          <PlungeFeedrate state="Value">30</PlungeFeedrate>
+          <CutFeedrate state="Value">50</CutFeedrate>
+          <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
+          <CustomMOPHeader state="Default" />
+          <CustomMOPFooter state="Default" />
+          <Name>3mm mill</Name>
+          <StockSurface state="Default">0</StockSurface>
+          <RoughingClearance state="Default">0</RoughingClearance>
+          <ClearancePlane state="Default">3</ClearancePlane>
+          <SpindleDirection state="Default">CW</SpindleDirection>
+          <SpindleSpeed state="Default">1000</SpindleSpeed>
+          <SpindleRange state="Default">0</SpindleRange>
+          <VelocityMode state="Default">Undefined</VelocityMode>
+          <primitive>
+            <prim>1</prim>
+            <prim>4</prim>
+          </primitive>
+          <TargetDepth state="Value">-3.5</TargetDepth>
+          <DepthIncrement state="Value">0.5</DepthIncrement>
+          <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
+          <CutOrdering state="Default">DepthFirst</CutOrdering>
+          <CutWidth state="Default">0</CutWidth>
+          <StepOver state="Default">0.4</StepOver>
+          <StepoverFeedrate state="Default">Plunge Feedrate</StepoverFeedrate>
+          <InsideOutside state="Default">Outside</InsideOutside>
+          <MillingDirection state="Value">Climb</MillingDirection>
+          <CollisionDetection state="Default">True</CollisionDetection>
+          <CornerOvercut state="Default">False</CornerOvercut>
+          <LeadInMove state="Default" />
+          <LeadOutMove state="Default" />
+          <HoldingTabs state="Default">
+            <TabMethod>None</TabMethod>
+            <Width>3</Width>
+            <Height>3</Height>
+            <MinimumTabs>3</MinimumTabs>
+            <MaximumTabs>6</MaximumTabs>
+            <TabDistance>40</TabDistance>
+            <SizeThreshold>4</SizeThreshold>
+            <UseLeadIns>False</UseLeadIns>
+            <TabStyle>Triangle</TabStyle>
+          </HoldingTabs>
+          <SideProfile state="Default" />
+        </profile>
+      </machineops>
+      <Stock>
+        <PMin>0,0</PMin>
+        <PMax>0,0</PMax>
+        <Color>255,165,0</Color>
+      </Stock>
+      <ToolProfile>Unspecified</ToolProfile>
+      <Nesting>
+        <BasePoint />
+        <NestMethod>None</NestMethod>
+      </Nesting>
+    </part>
+  </parts>
+  <ActiveLayer>LAYER_1</ActiveLayer>
+  <ActivePart>Part1</ActivePart>
+</CADFile>

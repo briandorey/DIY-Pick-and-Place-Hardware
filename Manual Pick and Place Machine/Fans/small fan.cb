@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="small fan">
+  <layers>
+    <layer name="0" color="255,255,255">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="LAYER_1" color="255,255,255">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <spline id="1" deg="3" flags="11" ktol="1E-10" cptol="1E-10" ftol="0">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>2</k>
+            <k>2</k>
+            <k>2</k>
+            <k>3</k>
+            <k>3</k>
+            <k>3</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>-2.50010579364581,24.8754842060207</p>
+            <p>-2.50010579364581,24.8754842060207</p>
+            <p>-2.50010579364581,29.8884426466078</p>
+            <p>-2.50010579364581,29.8884426466078</p>
+            <p>-17.0725151867041,28.68507079361</p>
+            <p>-28.6847262840615,17.0726874414784</p>
+            <p>-29.8882703918335,2.50027804842007</p>
+            <p>-29.8882703918335,2.50027804842007</p>
+            <p>-24.8753119512464,2.50027804842007</p>
+            <p>-24.8753119512464,2.50027804842007</p>
+            <p>-23.7024291932931,14.3114434100506</p>
+            <p>-14.3109266457278,23.7027737028417</p>
+            <p>-2.50010579364581,24.8754842060207</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="2" deg="3" flags="11" ktol="1E-10" cptol="1E-10" ftol="0">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>2</k>
+            <k>2</k>
+            <k>2</k>
+            <k>3</k>
+            <k>3</k>
+            <k>3</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>24.8753119512464,2.50027804842007</p>
+            <p>24.8753119512464,2.50027804842007</p>
+            <p>29.887925882285,2.50027804842007</p>
+            <p>29.887925882285,2.50027804842007</p>
+            <p>28.6845540292872,17.0730319510269</p>
+            <p>17.0721706771556,28.68507079361</p>
+            <p>2.50010579364581,29.8884426466078</p>
+            <p>2.50010579364581,29.8884426466078</p>
+            <p>2.50010579364581,24.8754842060207</p>
+            <p>2.50010579364581,24.8754842060207</p>
+            <p>14.3105821361793,23.7027737028417</p>
+            <p>23.7022569385189,14.3114434100506</p>
+            <p>24.8753119512464,2.50027804842007</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="3" deg="3" flags="11" ktol="1E-10" cptol="1E-10" ftol="0">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>2</k>
+            <k>2</k>
+            <k>2</k>
+            <k>3</k>
+            <k>3</k>
+            <k>3</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>2.50010579364581,-24.8751396964722</p>
+            <p>2.50010579364581,-24.8751396964722</p>
+            <p>2.50010579364581,-29.8884426466078</p>
+            <p>2.50010579364581,-29.8884426466078</p>
+            <p>17.0721706771556,-28.6847262840615</p>
+            <p>28.6848985388357,-17.0719984223813</p>
+            <p>29.8882703918335,-2.4992445197745</p>
+            <p>29.8882703918335,-2.4992445197745</p>
+            <p>24.8753119512464,-2.4992445197745</p>
+            <p>24.8753119512464,-2.4992445197745</p>
+            <p>23.7026014480674,-14.310409881405</p>
+            <p>14.3105821361793,-23.7017401741961</p>
+            <p>2.50010579364581,-24.8751396964722</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="4" deg="3" flags="11" ktol="1E-10" cptol="1E-10" ftol="0">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>2</k>
+            <k>2</k>
+            <k>2</k>
+            <k>3</k>
+            <k>3</k>
+            <k>3</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>-24.8753119512464,-2.4992445197745</p>
+            <p>-24.8753119512464,-2.4992445197745</p>
+            <p>-29.8882703918335,-2.4992445197745</p>
+            <p>-29.8882703918335,-2.4992445197745</p>
+            <p>-28.68507079361,-17.0719984223813</p>
+            <p>-17.0726874414784,-28.6847262840615</p>
+            <p>-2.50010579364581,-29.8884426466078</p>
+            <p>-2.50010579364581,-29.8884426466078</p>
+            <p>-2.50010579364581,-24.8751396964722</p>
+            <p>-2.50010579364581,-24.8751396964722</p>
+            <p>-14.3110989005021,-23.7020846837446</p>
+            <p>-23.7026014480674,-14.310409881405</p>
+            <p>-24.8753119512464,-2.4992445197745</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="5" deg="3" flags="11" ktol="1E-10" cptol="1E-10" ftol="0">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>2</k>
+            <k>2</k>
+            <k>2</k>
+            <k>3</k>
+            <k>3</k>
+            <k>3</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>12.2600613033586,-15.7955905450962</p>
+            <p>12.2600613033586,-15.7955905450962</p>
+            <p>8.68921983289714,-12.2247490746348</p>
+            <p>8.68921983289714,-12.2247490746348</p>
+            <p>3.50297308940204,-15.9203030016623</p>
+            <p>-3.50331759895056,-15.9203030016623</p>
+            <p>-8.68973659721993,-12.2244045650863</p>
+            <p>-8.68973659721993,-12.2244045650863</p>
+            <p>-12.2607503224556,-15.7952460355477</p>
+            <p>-12.2607503224556,-15.7952460355477</p>
+            <p>-5.06670193015694,-21.3935261990787</p>
+            <p>5.06601291105989,-21.3938707086272</p>
+            <p>12.2600613033586,-15.7955905450962</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="6" deg="3" flags="11" ktol="1E-10" cptol="1E-10" ftol="0">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>2</k>
+            <k>2</k>
+            <k>2</k>
+            <k>3</k>
+            <k>3</k>
+            <k>3</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>15.7957627998705,12.2610948320042</p>
+            <p>15.7957627998705,12.2610948320042</p>
+            <p>12.2245768198605,8.68990885199419</p>
+            <p>12.2245768198605,8.68990885199419</p>
+            <p>15.9204752564365,3.50348985372482</p>
+            <p>15.9204752564365,-3.50245632507925</p>
+            <p>12.224921329409,-8.68904757812288</p>
+            <p>12.224921329409,-8.68904757812288</p>
+            <p>15.7957627998705,-12.2598890485843</p>
+            <p>15.7957627998705,-12.2598890485843</p>
+            <p>21.393698453853,-5.06584065628562</p>
+            <p>21.393698453853,5.0668741849312</p>
+            <p>15.7957627998705,12.2610948320042</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="7" deg="3" flags="11" ktol="1E-10" cptol="1E-10" ftol="0">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>2</k>
+            <k>2</k>
+            <k>2</k>
+            <k>3</k>
+            <k>3</k>
+            <k>3</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>-12.2605780676814,15.7964518189675</p>
+            <p>-12.2605780676814,15.7964518189675</p>
+            <p>-8.6893920876714,12.2250935841833</p>
+            <p>-8.6893920876714,12.2250935841833</p>
+            <p>-3.50297308940204,15.9206475112108</p>
+            <p>3.50297308940204,15.9206475112108</p>
+            <p>8.68956434244567,12.2250935841833</p>
+            <p>8.68956434244567,12.2250935841833</p>
+            <p>12.2607503224556,15.7962795641933</p>
+            <p>12.2607503224556,15.7962795641933</p>
+            <p>5.06601291105989,21.3940429634015</p>
+            <p>-5.06635742060841,21.3940429634015</p>
+            <p>-12.2605780676814,15.7964518189675</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="8" deg="3" flags="11" ktol="1E-10" cptol="1E-10" ftol="0">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>2</k>
+            <k>2</k>
+            <k>2</k>
+            <k>3</k>
+            <k>3</k>
+            <k>3</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>-15.7959350546448,-12.2602335581329</p>
+            <p>-15.7959350546448,-12.2602335581329</p>
+            <p>-12.2247490746348,-8.68904757812288</p>
+            <p>-12.2247490746348,-8.68904757812288</p>
+            <p>-15.9206475112108,-3.50245632507925</p>
+            <p>-15.9204752564365,3.5031453441763</p>
+            <p>-12.224921329409,8.68956434244567</p>
+            <p>-12.224921329409,8.68956434244567</p>
+            <p>-15.796107309419,12.2609225772299</p>
+            <p>-15.796107309419,12.2609225772299</p>
+            <p>-21.3942152181757,5.06670193015694</p>
+            <p>-21.3938707086272,-5.06584065628562</p>
+            <p>-15.7959350546448,-12.2602335581329</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="9" deg="3" flags="11" ktol="1E-10" cptol="1E-10" ftol="0">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>2</k>
+            <k>2</k>
+            <k>2</k>
+            <k>3</k>
+            <k>3</k>
+            <k>3</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>-9.6850246829086,2.50027804842007</p>
+            <p>-9.6850246829086,2.50027804842007</p>
+            <p>-4.32583414605396,2.50027804842007</p>
+            <p>-4.32583414605396,2.50027804842007</p>
+            <p>-3.88727349078165,3.25751003607798</p>
+            <p>-3.25716552652946,3.88761800033018</p>
+            <p>-2.50010579364581,4.32617865560248</p>
+            <p>-2.50010579364581,4.32617865560248</p>
+            <p>-2.50010579364581,9.68536919245713</p>
+            <p>-2.50010579364581,9.68536919245713</p>
+            <p>-6.01444769814917,8.78137613712757</p>
+            <p>-8.78068711803052,6.01496446247195</p>
+            <p>-9.6850246829086,2.50027804842007</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="10" deg="3" flags="11" ktol="1E-10" cptol="1E-10" ftol="0">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>2</k>
+            <k>2</k>
+            <k>2</k>
+            <k>3</k>
+            <k>3</k>
+            <k>3</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>2.50010579364581,9.68536919245713</p>
+            <p>2.50010579364581,9.68536919245713</p>
+            <p>2.50010579364581,4.32617865560248</p>
+            <p>2.50010579364581,4.32617865560248</p>
+            <p>3.2569932717552,3.88761800033018</p>
+            <p>3.88710123600739,3.25751003607798</p>
+            <p>4.3256618912797,2.50027804842007</p>
+            <p>4.3256618912797,2.50027804842007</p>
+            <p>9.68519693768287,2.50027804842007</p>
+            <p>9.68519693768287,2.50027804842007</p>
+            <p>8.78051486325626,6.01496446247195</p>
+            <p>6.01410318860064,8.78103162757905</p>
+            <p>2.50010579364581,9.68536919245713</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="11" deg="3" flags="11" ktol="1E-10" cptol="1E-10" ftol="0">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>2</k>
+            <k>2</k>
+            <k>2</k>
+            <k>3</k>
+            <k>3</k>
+            <k>3</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>9.68519693768287,-2.4992445197745</p>
+            <p>9.68519693768287,-2.4992445197745</p>
+            <p>4.32600640082822,-2.4992445197745</p>
+            <p>4.32600640082822,-2.4992445197745</p>
+            <p>3.88710123600739,-3.25647650743241</p>
+            <p>3.25733778130372,-3.88692898123313</p>
+            <p>2.50010579364581,-4.32548963650543</p>
+            <p>2.50010579364581,-4.32548963650543</p>
+            <p>2.50010579364581,-9.68468017336008</p>
+            <p>2.50010579364581,-9.68468017336008</p>
+            <p>6.01410318860064,-8.780342608482</p>
+            <p>8.78085937280479,-6.01393093382638</p>
+            <p>9.68519693768287,-2.4992445197745</p>
+          </ctrl>
+          <fit />
+        </spline>
+        <spline id="12" deg="3" flags="11" ktol="1E-10" cptol="1E-10" ftol="0">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <knots>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>0</k>
+            <k>1</k>
+            <k>1</k>
+            <k>1</k>
+            <k>2</k>
+            <k>2</k>
+            <k>2</k>
+            <k>3</k>
+            <k>3</k>
+            <k>3</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+            <k>4</k>
+          </knots>
+          <weights>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+            <w>1</w>
+          </weights>
+          <ctrl>
+            <p>-2.50010579364581,-9.6850246829086</p>
+            <p>-2.50010579364581,-9.6850246829086</p>
+            <p>-2.50010579364581,-4.32514512695691</p>
+            <p>-2.50010579364581,-4.32514512695691</p>
+            <p>-3.25733778130372,-3.88692898123313</p>
+            <p>-3.88744574555592,-3.25647650743241</p>
+            <p>-4.32600640082822,-2.4992445197745</p>
+            <p>-4.32600640082822,-2.4992445197745</p>
+            <p>-9.68519693768287,-2.4992445197745</p>
+            <p>-9.68519693768287,-2.4992445197745</p>
+            <p>-8.78085937280479,-6.01393093382638</p>
+            <p>-6.01444769814917,-8.780342608482</p>
+            <p>-2.50010579364581,-9.6850246829086</p>
+          </ctrl>
+          <fit />
+        </spline>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts>
+    <part Name="Part1">
+      <machineops>
+        <profile>
+          <WorkPlane state="Default">XY</WorkPlane>
+          <OptimisationMode state="Default">Experimental</OptimisationMode>
+          <RoughingFinishing state="Default">Roughing</RoughingFinishing>
+          <ToolDiameter state="Default">3</ToolDiameter>
+          <ToolNumber state="Value">3</ToolNumber>
+          <ToolProfile state="Default">EndMill</ToolProfile>
+          <PlungeFeedrate state="Value">20</PlungeFeedrate>
+          <CutFeedrate state="Value">80</CutFeedrate>
+          <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
+          <StartPoint state="Default" />
+          <CustomMOPHeader state="Default" />
+          <CustomMOPFooter state="Default" />
+          <Name>Profile1</Name>
+          <StockSurface state="Default">0</StockSurface>
+          <RoughingClearance state="Default">0</RoughingClearance>
+          <ClearancePlane state="Default">3</ClearancePlane>
+          <SpindleDirection state="Default">CW</SpindleDirection>
+          <SpindleSpeed state="Default">1000</SpindleSpeed>
+          <SpindleRange state="Default">0</SpindleRange>
+          <VelocityMode state="Default">Undefined</VelocityMode>
+          <primitive>
+            <prim>1</prim>
+            <prim>2</prim>
+            <prim>3</prim>
+            <prim>4</prim>
+            <prim>5</prim>
+            <prim>6</prim>
+            <prim>7</prim>
+            <prim>8</prim>
+            <prim>9</prim>
+            <prim>10</prim>
+            <prim>11</prim>
+            <prim>12</prim>
+          </primitive>
+          <TargetDepth state="Value">-2</TargetDepth>
+          <DepthIncrement state="Value">2</DepthIncrement>
+          <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
+          <CutOrdering state="Default">DepthFirst</CutOrdering>
+          <CutWidth state="Default">0</CutWidth>
+          <StepOver state="Default">0.4</StepOver>
+          <StepoverFeedrate state="Default">Plunge Feedrate</StepoverFeedrate>
+          <InsideOutside state="Value">Inside</InsideOutside>
+          <MillingDirection state="Default">Conventional</MillingDirection>
+          <CollisionDetection state="Default">True</CollisionDetection>
+          <CornerOvercut state="Default">False</CornerOvercut>
+          <LeadInMove state="Default" />
+          <LeadOutMove state="Default" />
+          <HoldingTabs state="Default">
+            <TabMethod>None</TabMethod>
+            <Width>3</Width>
+            <Height>3</Height>
+            <MinimumTabs>3</MinimumTabs>
+            <MaximumTabs>6</MaximumTabs>
+            <TabDistance>40</TabDistance>
+            <SizeThreshold>4</SizeThreshold>
+            <UseLeadIns>False</UseLeadIns>
+            <TabStyle>Triangle</TabStyle>
+          </HoldingTabs>
+          <SideProfile state="Default" />
+        </profile>
+      </machineops>
+      <Stock>
+        <PMin>0,0</PMin>
+        <PMax>0,0</PMax>
+        <Color>255,165,0</Color>
+      </Stock>
+      <ToolProfile>Unspecified</ToolProfile>
+      <Nesting>
+        <BasePoint />
+        <NestMethod>None</NestMethod>
+      </Nesting>
+    </part>
+  </parts>
+  <ActiveLayer>LAYER_1</ActiveLayer>
+  <ActivePart>Part1</ActivePart>
+</CADFile>

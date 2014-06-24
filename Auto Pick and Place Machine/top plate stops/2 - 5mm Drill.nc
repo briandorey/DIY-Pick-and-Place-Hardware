@@ -1,0 +1,20 @@
+( Made using CamBam - http://www.cambam.co.uk )
+( top plate stops 11/8/2013 5:48:31 PM )
+( T15 : 1.0 )
+G21 G90 G91.1 G64 G40
+G0 Z3.0
+( T15 : 1.0 )
+T15 M6
+( 5mm Drill )
+G17
+M3 S1000
+G0 X6.0942 Y25.9989
+G98
+G83 X6.0942 Y25.9989 Z-6.0 Q2.0 R3.0 F50.0
+G83 X24.0941 Z-6.0
+G83 Y5.9989 Z-6.0
+G83 X6.0942 Z-6.0
+G80
+G0 Z3.0
+M5
+M30

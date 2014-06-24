@@ -1,0 +1,20 @@
+( Made using CamBam - http://www.cambam.co.uk )
+( lead nut mount 10/23/2013 9:53:23 AM )
+( T8 : 2.0 )
+G21 G90 G64 G40
+G0 Z3.0
+( T8 : 2.0 )
+T8 M6
+( 2.5mm Drill )
+G17
+M3 S1000
+G0 X2.3802 Y25.1127
+G98
+G83 X2.3802 Y25.1127 Z-12.0 Q2.0 R3.0 F50.0
+G83 X17.6203 Y25.1123 Z-12.0
+G83 X17.6205 Y7.0125 Z-12.0
+G83 X2.3802 Y7.0128 Z-12.0
+G80
+G0 Z3.0
+M5
+M30

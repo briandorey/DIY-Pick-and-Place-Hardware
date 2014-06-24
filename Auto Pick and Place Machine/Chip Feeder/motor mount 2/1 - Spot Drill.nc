@@ -1,0 +1,21 @@
+( Made using CamBam - http://www.cambam.co.uk )
+( motor mount 2 11/4/2013 8:09:25 PM )
+( T21 : 1.0 )
+G21 G90 G91.1 G64 G40
+G0 Z3.0
+( T21 : 1.0 )
+T21 M6
+( Spot Drill )
+G17
+M3 S1000
+G0 X6.0106 Y25.1874
+G98
+G81 X6.0106 Y25.1874 Z-1.0 R3.0 F25.0
+G81 Y7.0213 Z-1.0
+G81 X34.0122 Y7.0214 Z-1.0
+G81 X62.0145 Y7.0213 Z-1.0
+G81 Y25.1874 Z-1.0
+G80
+G0 Z3.0
+M5
+M30

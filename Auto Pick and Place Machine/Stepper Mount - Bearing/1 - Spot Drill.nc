@@ -1,0 +1,20 @@
+( Made using CamBam - http://www.cambam.co.uk )
+( stepper mount - bearing 9/20/2013 12:23:53 PM )
+( T16 : 1.0 )
+G21 G90 G64 G40
+G0 Z3.0
+( T16 : 1.0 )
+T16 M6
+( Spot Drill )
+G17
+M3 S1000
+G0 X14.0003 Y39.5864
+G98
+G81 X14.0003 Y39.5864 Z-1.0 R2.0 F50.0
+G81 X42.7655 Y39.5869 Z-1.0
+G81 Y71.6421 Z-1.0
+G81 X42.6112 Y7.5299 Z-1.0
+G80
+G0 Z3.0
+M5
+M30

@@ -1,0 +1,20 @@
+( Made using CamBam - http://www.cambam.co.uk )
+( picker slide - top plate 9/4/2013 12:14:12 PM )
+( T8 : 2.0 )
+G21 G90 G64 G40
+G0 Z3.0
+( T8 : 2.0 )
+T8 M6
+( 2.5mm drill )
+G17
+M3 S1000
+G0 X5.657 Y27.2304
+G98
+G83 X5.657 Y27.2304 Z-12.0 Q1.0 R2.0 F50.0
+G83 X20.8971 Y27.23 Z-12.0
+G83 X32.1172 Y27.2304 Z-12.0
+G83 X47.3578 Y27.23 Z-12.0
+G80
+G0 Z3.0
+M5
+M30

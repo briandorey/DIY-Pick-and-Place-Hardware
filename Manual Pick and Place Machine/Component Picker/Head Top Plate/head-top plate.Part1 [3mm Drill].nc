@@ -1,0 +1,19 @@
+( Made using CamBam - http://www.cambam.co.uk )
+( head-top plate 10/22/2012 5:07:51 PM )
+( T4 : 3.0 )
+G21 G90 G64 G40
+G0 Z3.0
+( T4 : 3.0 )
+T4 M6
+( 3mm Drill )
+G17
+M3 S1000
+G0 X3.6456 Y59.8516
+G98
+G83 X3.6456 Y59.8516 Z-11.0 Q1.0 R1.0 F40.0
+G83 X21.9911 Z-11.0
+G83 X12.7306 Y4.4872 Z-11.0
+G80
+G0 Z3.0
+M5
+M30

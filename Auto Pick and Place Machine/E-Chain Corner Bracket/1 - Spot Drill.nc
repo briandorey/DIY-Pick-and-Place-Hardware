@@ -1,0 +1,20 @@
+( Made using CamBam - http://www.cambam.co.uk )
+( echain corner plate 10/2/2013 7:09:58 PM )
+( T16 : 1.0 )
+G21 G90 G64 G40
+G0 Z3.0
+( T16 : 1.0 )
+T16 M6
+( Spot Drill )
+G17
+M3 S1000
+G0 X50.0544 Y49.9998
+G98
+G81 X50.0544 Y49.9998 Z-1.0 R3.0 F80.0
+G81 X70.0542 Z-1.0
+G81 X90.054 Z-1.0
+G81 X29.9998 Y70.0001 Z-1.0
+G80
+G0 Z3.0
+M5
+M30

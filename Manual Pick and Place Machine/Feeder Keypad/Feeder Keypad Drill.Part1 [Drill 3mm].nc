@@ -1,0 +1,19 @@
+( Made using CamBam - http://www.cambam.co.uk )
+( Feeder Keypad Drill 3/29/2013 10:20:34 AM )
+( T13 : 3.0 )
+G21 G90 G64 G40
+G0 Z3.0
+( T13 : 3.0 )
+T13 M6
+( Drill 3mm )
+G17
+M3 S1000
+G0 X32.7238 Y3.3443
+G98
+G81 X32.7238 Y3.3443 Z-2.5 R3.0 F100.0
+G81 Y74.7606 Z-2.5
+G81 X110.3209 Z-2.5
+G81 Y3.3443 Z-2.5
+G80
+M5
+M30

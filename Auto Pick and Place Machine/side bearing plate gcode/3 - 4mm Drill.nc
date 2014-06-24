@@ -1,0 +1,24 @@
+( Made using CamBam - http://www.cambam.co.uk )
+( side bearing plate camfile 8/31/2013 1:24:22 PM )
+( T10 : 4.0 )
+G21 G90 G64 G40
+G0 Z3.0
+( T10 : 4.0 )
+T10 M6
+( 4mm Drill )
+G17
+M3 S1000
+G0 X4.9999 Y10.5001
+G98
+G83 X4.9999 Y10.5001 Z-13.0 Q2.0 R2.0 F50.0
+G83 X31.0 Z-13.0
+G83 X64.0073 Z-13.0
+G83 X90.0086 Z-13.0
+G83 X90.0085 Y67.5 Z-13.0
+G83 X64.0073 Z-13.0
+G83 X31.0 Z-13.0
+G83 X5.0001 Z-13.0
+G80
+G0 Z3.0
+M5
+M30

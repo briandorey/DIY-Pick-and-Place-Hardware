@@ -1,0 +1,19 @@
+( Made using CamBam - http://www.cambam.co.uk )
+( head face plate 9/27/2013 4:34:46 PM )
+( T9 : 3.0 )
+G21 G90 G64 G40
+G0 Z3.0
+( T9 : 3.0 )
+T9 M6
+( 3mm Drill )
+G17
+M3 S1000
+G0 X26.1293 Y20.2761
+G98
+G83 X26.1293 Y20.2761 Z-12.0 Q2.0 R2.0 F50.0
+G83 X26.129 Y5.036 Z-12.0
+G83 X47.5575 Y29.1596 Z-12.0
+G80
+G0 Z3.0
+M5
+M30
